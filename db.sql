@@ -12,10 +12,6 @@ CREATE TABLE `blog_members` (
   PRIMARY KEY (`memberID`)
 ) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
 
--- ----------------------------
--- Records of blog_members
--- ----------------------------
-INSERT INTO `blog_members` VALUES ('1', 'admin', '$2y$10$OZQiMWI/gm2dSysK4rxLY.VvoM5cnSULzAUP6nzE8iPmLZN1z2Y9i', 'demo@demo.com');
 
 -- ----------------------------
 -- Table structure for blog_posts
